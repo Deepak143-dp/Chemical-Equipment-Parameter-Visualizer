@@ -1,0 +1,90 @@
+{
+  "name": "sample_equipment_data.csv",
+  "uploaded_at": "2025-11-14T21:41:11.626110Z",
+  "summary": {
+    "Equipment ID": {
+      "count": 5,
+      "mean": 3.0,
+      "median": 3.0,
+      "min": 1.0,
+      "max": 5.0,
+      "std": 1.5811388300841898
+    },
+    "Flowrate": {
+      "count": 5,
+      "mean": 8.18,
+      "median": 8.0,
+      "min": 0.0,
+      "max": 15.0,
+      "std": 5.883196410115848
+    },
+    "Pressure": {
+      "count": 5,
+      "mean": 3.28,
+      "median": 3.2,
+      "min": 2.5,
+      "max": 4.0,
+      "std": 0.5449770637375485
+    },
+    "Temperature": {
+      "count": 5,
+      "mean": 92.0,
+      "median": 50.0,
+      "min": 45.0,
+      "max": 200.0,
+      "std": 68.24587899646396
+    }
+  },
+  "rows": [
+    {
+      "Equipment ID": 1,
+      "Equipment Name": "Pump_A",
+      "Type": "Pump",
+      "Flowrate": 12.4,
+      "Pressure": 3.2,
+      "Temperature": 45.0,
+      "Material": "CarbonSteel",
+      "Notes": "Startup pump"
+    },
+    {
+      "Equipment ID": 2,
+      "Equipment Name": "HeatExch_1",
+      "Type": "Heat Exchanger",
+      "Flowrate": 8.0,
+      "Pressure": 2.5,
+      "Temperature": 120.0,
+      "Material": "StainlessSteel",
+      "Notes": "Shell & Tube"
+    },
+    {
+      "Equipment ID": 3,
+      "Equipment Name": "Reactor_X",
+      "Type": "Reactor",
+      "Flowrate": 5.5,
+      "Pressure": 4.0,
+      "Temperature": 200.0,
+      "Material": "Alloy",
+      "Notes": "High temp"
+    },
+    {
+      "Equipment ID": 4,
+      "Equipment Name": "Pump_B",
+      "Type": "Pump",
+      "Flowrate": 15.0,
+      "Pressure": 3.5,
+      "Temperature": 50.0,
+      "Material": "CarbonSteel",
+      "Notes": "Spare capacity"
+    },
+    {
+      "Equipment ID": 5,
+      "Equipment Name": "Valve_1",
+      "Type": "Valve",
+      "Flowrate": 0.0,
+      "Pressure": 3.2,
+      "Temperature": 45.0,
+      "Material": "Brass",
+      "Notes": "Control valve"
+    }
+  ]
+}

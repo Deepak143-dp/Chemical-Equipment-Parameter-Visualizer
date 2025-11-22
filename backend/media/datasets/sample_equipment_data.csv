@@ -1,0 +1,6 @@
+Equipment ID,Equipment Name,Type,Flowrate,Pressure,Temperature,Material,Notes
+1,Pump_A,Pump,12.4,3.2,45.0,CarbonSteel,Startup pump
+2,HeatExch_1,Heat Exchanger,8.0,2.5,120.0,StainlessSteel,Shell & Tube
+3,Reactor_X,Reactor,5.5,4.0,200.0,Alloy,High temp
+4,Pump_B,Pump,15.0,3.5,50.0,CarbonSteel,Spare capacity
+5,Valve_1,Valve,0.0,3.2,45.0,Brass,Control valve

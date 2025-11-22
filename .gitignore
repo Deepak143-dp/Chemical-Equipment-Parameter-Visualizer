@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Python
+frontend-pyqt/.venv
+backend/.venv312/
+__pycache__/
+
+# Environment files
+.env
+
+# Build folders
+dist/
+build/
+
+# Logs
+*.log
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/

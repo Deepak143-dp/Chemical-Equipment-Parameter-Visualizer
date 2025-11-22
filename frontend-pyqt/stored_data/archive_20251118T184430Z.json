@@ -1,0 +1,137 @@
+{
+  "name": "sample_equipment_data.csv",
+  "uploaded_at": "2025-11-18T18:38:08.042998Z",
+  "summary": {
+    "Flowrate": {
+      "count": 15,
+      "mean": 119.8,
+      "median": 130.0,
+      "min": 58.0,
+      "max": 165.0,
+      "std": 36.71939931036844
+    },
+    "Pressure": {
+      "count": 15,
+      "mean": 6.106666666666667,
+      "median": 6.2,
+      "min": 4.0,
+      "max": 8.4,
+      "std": 1.3889701563525745
+    },
+    "Temperature": {
+      "count": 15,
+      "mean": 117.46666666666667,
+      "median": 118.0,
+      "min": 95.0,
+      "max": 140.0,
+      "std": 14.436395803992207
+    }
+  },
+  "rows": [
+    {
+      "Equipment Name": "Pump-1",
+      "Type": "Pump",
+      "Flowrate": 120,
+      "Pressure": 5.2,
+      "Temperature": 110
+    },
+    {
+      "Equipment Name": "Compressor-1",
+      "Type": "Compressor",
+      "Flowrate": 95,
+      "Pressure": 8.4,
+      "Temperature": 95
+    },
+    {
+      "Equipment Name": "Valve-1",
+      "Type": "Valve",
+      "Flowrate": 60,
+      "Pressure": 4.1,
+      "Temperature": 105
+    },
+    {
+      "Equipment Name": "HeatExchanger-1",
+      "Type": "HeatExchanger",
+      "Flowrate": 150,
+      "Pressure": 6.2,
+      "Temperature": 130
+    },
+    {
+      "Equipment Name": "Pump-2",
+      "Type": "Pump",
+      "Flowrate": 132,
+      "Pressure": 5.6,
+      "Temperature": 118
+    },
+    {
+      "Equipment Name": "Valve-2",
+      "Type": "Valve",
+      "Flowrate": 58,
+      "Pressure": 4.0,
+      "Temperature": 102
+    },
+    {
+      "Equipment Name": "Reactor-1",
+      "Type": "Reactor",
+      "Flowrate": 140,
+      "Pressure": 7.5,
+      "Temperature": 140
+    },
+    {
+      "Equipment Name": "Pump-3",
+      "Type": "Pump",
+      "Flowrate": 125,
+      "Pressure": 5.3,
+      "Temperature": 115
+    },
+    {
+      "Equipment Name": "Condenser-1",
+      "Type": "Condenser",
+      "Flowrate": 160,
+      "Pressure": 6.8,
+      "Temperature": 125
+    },
+    {
+      "Equipment Name": "Compressor-2",
+      "Type": "Compressor",
+      "Flowrate": 100,
+      "Pressure": 8.0,
+      "Temperature": 98
+    },
+    {
+      "Equipment Name": "HeatExchanger-2",
+      "Type": "HeatExchanger",
+      "Flowrate": 155,
+      "Pressure": 6.3,
+      "Temperature": 132
+    },
+    {
+      "Equipment Name": "Valve-3",
+      "Type": "Valve",
+      "Flowrate": 62,
+      "Pressure": 4.2,
+      "Temperature": 107
+    },
+    {
+      "Equipment Name": "Pump-4",
+      "Type": "Pump",
+      "Flowrate": 130,
+      "Pressure": 5.9,
+      "Temperature": 119
+    },
+    {
+      "Equipment Name": "Reactor-2",
+      "Type": "Reactor",
+      "Flowrate": 145,
+      "Pressure": 7.2,
+      "Temperature": 138
+    },
+    {
+      "Equipment Name": "Condenser-2",
+      "Type": "Condenser",
+      "Flowrate": 165,
+      "Pressure": 6.9,
+      "Temperature": 128
+    }
+  ]
+}
