@@ -5,6 +5,8 @@ As a result, when you access the system after inactivity, the backend may requir
 
 Please wait for up to 2 minutes for the backend to fully initialize.
 
+# link -: https://chemical-equipment-parameter-visualizer-2l3r.onrender.com/
+
 # Chemical Equipment Management System
 
 A complete full‑stack project using **Django (Backend)** and **React (Frontend)** that allows uploading, storing, and viewing chemical equipment datasets.
@@ -106,7 +108,7 @@ This creates all default Django tables inside `db.sqlite3`.
 python manage.py runserver
 ```
 
-Your backend is live at:  
+Your backend is live at: (only in localhost )
 👉 **http://127.0.0.1:8000/**
 
 ---
@@ -130,7 +132,7 @@ This installs React, React Router, and all UI packages.
 npm start
 ```
 
-Your frontend will run at:  
+Your frontend will run at: (only in localhost )
 👉 **http://localhost:3000/**
 
 ---
@@ -201,6 +203,7 @@ npm start
 
 ### ✔ Step 3 — Open in Browser
 
+(only in localhost )
 Frontend: **http://localhost:3000/**  
 Backend API: **http://127.0.0.1:8000/api/**
 
