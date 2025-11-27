@@ -24,3 +24,10 @@ table { color: #ffffff; }
 th, td { font-size: 13px }
 
 .container h1, .container h3, .container h4, .container h5 { color: #000000 }
+.header {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 2px solid #000000;
+}
